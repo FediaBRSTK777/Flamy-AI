@@ -1,6 +1,6 @@
-# Flame - AI-Powered Dating App
+# Flamy - AI-Powered Dating App
 
-Flame is an innovative dating application powered by artificial intelligence, designed to help users find meaningful connections in a modern and engaging way. Our app leverages advanced algorithms to match users based on their interests, preferences, and behaviors, ensuring a personalized experience for everyone.
+Flamy is an innovative dating application powered by artificial intelligence, designed to help users find meaningful connections in a modern and engaging way. Our app leverages advanced algorithms to match users based on their interests, preferences, and behaviors, ensuring a personalized experience for everyone.
 
 ## Features
 
@@ -12,11 +12,11 @@ Flame is an innovative dating application powered by artificial intelligence, de
 
 ## Getting Started
 
-To get started with the Flame application, clone the repository and install the dependencies:
+To get started with the Flamy application, clone the repository and install the dependencies:
 
 ```bash
 git clone <repository-url>
-cd Flame
+cd Flamy
 npm install
 ```
 
@@ -28,7 +28,7 @@ npm run dev
 
 ## Contributing
 
-We welcome contributions to enhance the Flame application. Please feel free to submit issues or pull requests.
+We welcome contributions to enhance the Flamy application. Please feel free to submit issues or pull requests.
 
 ## License
 
@@ -36,6 +36,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For any inquiries or feedback, please reach out to us at [support@flameapp.com](mailto:support@flameapp.com). 
+For any inquiries or feedback, please reach out to us at [support@flamyapp.com](mailto:support@flamyapp.com). 
 
-Join us in igniting connections with Flame!
+Join us in igniting connections with Flamy!
