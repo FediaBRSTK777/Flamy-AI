@@ -1,41 +1,94 @@
-# Flamy - AI-Powered Dating App
+# 🚀 WunderwaffeTech PWA
 
-Flamy is an innovative dating application powered by artificial intelligence, designed to help users find meaningful connections in a modern and engaging way. Our app leverages advanced algorithms to match users based on their interests, preferences, and behaviors, ensuring a personalized experience for everyone.
+A blazing fast, modern, and fully optimized PWA built with React, Vite, and TypeScript. Designed for instant loading, mobile-first experience, and best practices in architecture and code quality.
 
-## Features
+---
 
-- **AI Matching**: Utilize cutting-edge AI technology to find compatible matches based on user profiles and preferences.
-- **User Profiles**: Create detailed profiles to showcase interests, hobbies, and what you're looking for in a partner.
-- **Real-Time Chat**: Engage in real-time conversations with potential matches to foster connections.
-- **Privacy Focused**: Your data security is our priority. We ensure that your information is kept private and secure.
-- **User-Friendly Interface**: Enjoy a seamless and intuitive user experience with our beautifully designed interface.
+## ✨ Features
+- ⚡ Super-fast loading (Vite + code splitting)
+- 📱 Mobile-first, responsive, installable PWA
+- 🧩 Modular, scalable architecture
+- 🎨 Styled-components for custom design
+- 🌍 Localization-ready (i18next)
+- 🔥 State management & API with TanStack React Query
+- 🛡️ Linting & Prettier for code quality
+- 🧪 Ready for CI/CD & GitHub Actions
+- 🧠 SEO-friendly (React 19 meta tags)
 
-## Getting Started
+---
 
-To get started with the Flamy application, clone the repository and install the dependencies:
+## 🛠️ Tech Stack
+| Technology         | Purpose                |
+|--------------------|------------------------|
+| React 19 + TS      | UI & logic             |
+| Vite 7             | Build tool             |
+| styled-components  | Styling                |
+| react-router-dom   | Routing                |
+| @tanstack/react-query | State/API           |
+| i18next            | Localization           |
+| vite-plugin-pwa    | PWA support            |
+| ESLint + Prettier  | Code quality           |
 
+---
+
+## 📁 Project Structure
+```text
+src/
+  pages/        # Page components (routing targets)
+  components/   # Reusable UI components
+  features/     # Feature modules/business logic
+  api/          # API layer (fetchers, hooks)
+  locales/      # Localization files
+```
+
+---
+
+## ⚡ Quick Start
 ```bash
-git clone <repository-url>
-cd Flamy
+# 1. Install dependencies
 npm install
-```
 
-Then, you can run the application in development mode:
-
-```bash
+# 2. Start development server
 npm run dev
+
+# 3. Build for production
+npm run build
+
+# 4. Preview production build
+npm run preview
 ```
 
-## Contributing
+---
 
-We welcome contributions to enhance the Flamy application. Please feel free to submit issues or pull requests.
+## 📜 Scripts
+| Script         | Description                  |
+|----------------|------------------------------|
+| dev            | Start dev server             |
+| build          | Build for production         |
+| preview        | Preview production build     |
+| lint           | Run ESLint                   |
+| format         | Run Prettier                 |
 
-## License
+---
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## 🧹 Linting & Formatting
+- **Lint:** `npm run lint` (TypeScript, React, import, a11y rules)
+- **Format:** `npm run format` (Prettier)
 
-## Contact
+---
 
-For any inquiries or feedback, please reach out to us at [support@flamyapp.com](mailto:support@flamyapp.com). 
+## 📲 PWA
+- Manifest auto-generated (see `vite.config.ts`)
+- Add your icons to `public/`
+- Works offline, installable on mobile & desktop
 
-Join us in igniting connections with Flamy!
+---
+
+## 🌍 Localization
+- Powered by [i18next](https://www.i18next.com/)
+- Add your translations in `src/locales/`
+
+
+---
+
+Made with ❤️ in Ukraine
