@@ -1,4 +1,4 @@
-# 🚀 WunderwaffeTech PWA
+# 🚀 Flamy-AI
 
 A blazing fast, modern, and fully optimized PWA built with React, Vite, and TypeScript. Designed for instant loading, mobile-first experience, and best practices in architecture and code quality.
 
