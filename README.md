@@ -112,3 +112,8 @@ npm run preview
 ---
 
 Made with ❤️ in Ukraine
+
+## License
+This project is licensed under the **MIT Non-Commercial License (MIT-NC)**.  
+Commercial use is prohibited without explicit permission from [FediaBRSTK777](https://github.com/FediaBRSTK777).
+
